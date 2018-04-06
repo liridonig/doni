@@ -7,6 +7,6 @@ is suitable for all devices.</p>
 <ul > 
   <li> HTML5&CSS3</li>
   <li> JAVASCRIPT</li>
-  <li> CSS Framwork:Bootstrap </li>
+  <li> CSS Framework:Bootstrap </li>
   </ul>
   
